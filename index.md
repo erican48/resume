@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+Contact Information: erica_n@live.com
 
-You can use the [editor on GitHub](https://github.com/erican48/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Education: MiraCosta Community College
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Liberal Arts with an Emphasis on Math and Sciences, Associates - (in progress, expected May 2018) Associates In Computer Science - (in progress, expected May 2019)
 
-### Markdown
+Major: Computer Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Related Courses: Multivariable Calculus (in progress)
 
-```markdown
-Syntax highlighted code block
+Linear Algebra (in progress)
 
-# Header 1
-## Header 2
-### Header 3
+Java 1 & 2
 
-- Bulleted
-- List
+Technology, the Individual, and Society
 
-1. Numbered
-2. List
+Programming Languages: Java Some experience in: Python, HTML
 
-**Bold** and _Italic_ and `Code` text
+Work Experiences: See's Candies - Seasonal Sales Associate Oct 2016 - March 2017
 
-[Link](url) and ![Image](src)
-```
+opened and closed for two locations, managed inventory and displays.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erican48/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Starbucks - Barista June 2018 - Present
