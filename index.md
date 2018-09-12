@@ -12,7 +12,7 @@ Linear Algebra (in progress)
 
 Java 1 & 2
 
-Technology, the Individual, and Society
+Information Technology : Technology, the Individual, and Society
 
 Programming Languages: Java 
 Some experience in: Python, HTML
