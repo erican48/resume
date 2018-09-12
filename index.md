@@ -2,7 +2,7 @@ Contact Information: erica_n@live.com
 
 Education: MiraCosta Community College
 
-Liberal Arts with an Emphasis on Math and Sciences, Associates - (in progress, expected May 2018) Associates In Computer Science - (in progress, expected May 2019)
+Liberal Arts with an Emphasis on Math and Sciences, Associates; Associates In Computer Science - (in progress, expected May 2019)
 
 Major: Computer Science
 
@@ -14,7 +14,8 @@ Java 1 & 2
 
 Technology, the Individual, and Society
 
-Programming Languages: Java Some experience in: Python, HTML
+Programming Languages: Java 
+Some experience in: Python, HTML
 
 Work Experiences: See's Candies - Seasonal Sales Associate Oct 2016 - March 2017
 
